@@ -11,7 +11,7 @@
 - Ter uma conta no GitLab.
 
 ## 📝 Tabela de conteúdos
-- [Fazendo a instalação do Ansible (Passo 1)](#step1)
+- [Criando arquivo YAML que especifica instruções para GitLab CI/CD (Passo 1)](#step1)
 - [Referências](#documentation)
 
 ## ⚙️ Criando arquivo YAML que especifica instruções para GitLab CI/CD (Passo 1)<a name = "step1"></a>
