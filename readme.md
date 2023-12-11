@@ -12,7 +12,6 @@
 
 ## 📝 Tabela de conteúdos
 - [Fazendo a instalação do Ansible (Passo 1)](#step1)
-- [Criando e exceutando um ansible-playbook (Passo 2)](#step2)
 - [Referências](#documentation)
 
 ## ⚙️ Criando arquivo YAML que especifica instruções para GitLab CI/CD (Passo 1)<a name = "step1"></a>
